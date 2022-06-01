@@ -1,7 +1,7 @@
 # Sales-report-Dashboard-
 Created Interactive Sales report Dashboard Using Excel 
 
-#created Sales Report You Can Interact with All Dasboard with ease
+#created Sales Report You Can Interact with All Dasboard with Ease Using Slicer 
 .
 .
 
